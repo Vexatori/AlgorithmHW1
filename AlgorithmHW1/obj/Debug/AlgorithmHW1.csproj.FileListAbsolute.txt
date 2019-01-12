@@ -1,0 +1,7 @@
+F:\Проекты VS\AlgorithmHW1\AlgorithmHW1\bin\Debug\AlgorithmHW1.exe.config
+F:\Проекты VS\AlgorithmHW1\AlgorithmHW1\bin\Debug\AlgorithmHW1.exe
+F:\Проекты VS\AlgorithmHW1\AlgorithmHW1\bin\Debug\AlgorithmHW1.pdb
+F:\Проекты VS\AlgorithmHW1\AlgorithmHW1\obj\Debug\AlgorithmHW1.csprojAssemblyReference.cache
+F:\Проекты VS\AlgorithmHW1\AlgorithmHW1\obj\Debug\AlgorithmHW1.csproj.CoreCompileInputs.cache
+F:\Проекты VS\AlgorithmHW1\AlgorithmHW1\obj\Debug\AlgorithmHW1.exe
+F:\Проекты VS\AlgorithmHW1\AlgorithmHW1\obj\Debug\AlgorithmHW1.pdb
